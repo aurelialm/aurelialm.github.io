@@ -1,0 +1,18 @@
+{
+  "name": "aurelialm.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp",
+    "gulp": "gulp"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "jquery": "^1.12.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
